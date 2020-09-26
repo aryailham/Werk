@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="section_margin">20dp</dimen>
+    <dimen name="left_right_margin">40dp</dimen>
+    <dimen name="text_margin">10dp</dimen>
+    <dimen name="image_size">100dp</dimen>
+
+</resources>
