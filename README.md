@@ -1,5 +1,7 @@
 <strong>Werk: mobile-based job portal</strong>
 
+Werk is a mobile-based job portal. in this application, an User can search and apply any jobs that are posted in this application. User apply status also will be provided in this application. Currently, jobs in this application are divided into eight categories: Software Development, UI/UX Designer, Computer & IT, Web Development, Graphic Design, Marketing, Accounting, and Engineering. 
+
 This project was made to fulfill IT Division Bina Nusantara’s recruitment final project. it is a mobile application developed with Android Studio and Java. 
 
 <strong>Main Features:</strong>
